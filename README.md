@@ -17,5 +17,6 @@
 张颀伟 20205666@stu.neu.edu.cn  （已发送邮件）  
 黄城喆 20205630@stu.neu.edu.cn  （已发送邮件）  
 于天洋 20184205@stu.neu.edu.cn  （已发送邮件）  
-郭栋良 20205487@stu.nue.edu.cn  
+郭栋良 20205487@stu.neu.edu.cn  
+
 
